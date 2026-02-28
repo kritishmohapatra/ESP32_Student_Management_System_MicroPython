@@ -127,7 +127,7 @@ edit S001 S001 Jyoti 3.90 CSE
 ## Display Layout
 
 ### List View (Default)
-![Visual](Circuit_Diagram/vis_1.jpeg)
+![Visual](Circuit_Diagram/vis_2.jpeg)
 ```
 
 +--------------------------+
@@ -140,6 +140,7 @@ edit S001 S001 Jyoti 3.90 CSE
 ```
 
 ### Detail View (triggered by `ok`)
+![Visual](Circuit_Diagram/vis_1.jpeg)
 
 ```
 +--------------------------+
